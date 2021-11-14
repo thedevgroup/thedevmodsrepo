@@ -1,4 +1,4 @@
-# TheDev Mods Repositório
+# Repositório público TheDev Mods
 
 Este é o acervo de mods para Proton Bus Simulator, de todas as "fases" de mods, incluindo ônibus e mapas!
 
