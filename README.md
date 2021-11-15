@@ -8,5 +8,9 @@ Se o seu mapa, ou ônibus está aqui neste acervo, e você não quer, abra um pe
 
 Para um pedido ser atendido com sucesso, você deve estar atento a umas exigências: <br>1-Você deve ser o dono do mod, ou ter a autorização do dono<br>2-O mod deve ser grátis<br>3-Deve ser um mod de Proton Bus<br>Tendo estas exigências sido atendidas, iremos verificar se o mod funciona, para assim podermos adicionar no repositório!
 
-<h2> Lista de Mods de ônibus: </h2>
-  <a href="https://www.thedevmods.ga/2020/12/solaris-urbino12-3portas.html">Solaris Urbino 12</a><br>
+<h1> Lista de Mods de ônibus: </h1>
+  <a href="https://www.thedevmods.ga/2020/12/solaris-urbino12-3portas.html">Solaris Urbino 12 (Fase 2)</a><br>
+  
+  
+<h1> Lista de mods de mapa: </h1>
+  <a href="https://www.thedevmods.ga/2020/12/mapabns-2fase.html">Mapa BNS v0.10 (Fase 2)</a><br>
