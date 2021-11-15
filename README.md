@@ -6,7 +6,12 @@ Se o seu mapa, ou ônibus está aqui neste acervo, e você não quer, abra um pe
 
 <h3>Regras para adição de mods:</h3>
 
-Para um pedido ser atendido com sucesso, você deve estar atento a umas exigências: <br>1-Você deve ser o dono do mod, ou ter a autorização do dono<br>2-O mod deve ser grátis<br>2.1-Para mods pagos é necessário enviar o arquivo comprimido e travado com senha para nosso e-mail thedevmods@thedevgroup.ga com o título: "Mod Pago (nome do mod)<br>3-Deve ser um mod de Proton Bus<br>Tendo estas exigências sido atendidas, iremos verificar se o mod funciona, para assim podermos adicionar no repositório!
+Para um pedido ser atendido com sucesso, você deve estar atento a umas exigências:<br>
+<ol><li>Você deve ser o dono do mod, ou ter a autorização do dono<br></li>
+<li>O mod deve ser grátis<br></li>
+<dd>2.1-Para mods pagos é necessário enviar o arquivo comprimido e travado com senha para nosso e-mail thedevmods@thedevgroup.ga com o título: "Mod Pago (nome do mod)<br></dd>
+<li>Deve ser um mod de Proton Bus<br></li></ol>
+Tendo estas exigências sido atendidas, iremos verificar se o mod funciona, para assim podermos adicionar no repositório!
 
 <h1> Lista de Mods de ônibus: </h1>
   <a href="https://www.thedevmods.ga/2020/12/solaris-urbino12-3portas.html">Solaris Urbino 12 (Fase 2)</a><br>
