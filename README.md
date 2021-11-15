@@ -14,3 +14,12 @@ Para um pedido ser atendido com sucesso, você deve estar atento a umas exigênc
   
 <h1> Lista de mods de mapa: </h1>
   <a href="https://www.thedevmods.ga/2020/12/mapabns-2fase.html">Mapa BNS v0.10 (Fase 2)</a><br>
+
+
+
+
+
+
+
+
+<p><br><br><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.</p>
