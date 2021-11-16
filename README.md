@@ -28,3 +28,37 @@ Tendo estas exigências sido atendidas, iremos verificar se o mod funciona, para
 
 
 <p><br><br><br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional</a>.</p>
+
+
+
+
+# <br><br>TheDev Mods public repository
+
+This is the Proton Bus Simulator mod collection of all mod "phases" including buses and maps!
+
+If your map or bus is here in this collection, and you don't want it, open a request in the Issues tab and it will be promptly attended to!
+
+<h3>Rules for adding mods:</h3>
+
+For an order to be successfully fulfilled, you must be aware of some requirements:<br>
+<ol><li>You must be the owner of the mod, or have the owner's authorization<br></li>
+<li>The mod must be free<br></li>
+<dd>2.1-For paid mods it is necessary to send the compressed, password-locked file to our e-mail thedevmods@thedevgroup.ga with the title: "Paid Mod (mod name)<br></dd>
+<li>Must be a Proton Bus mod<br></li></ol>
+Once these requirements are met, we will check if the mod works, so we can add it to the repository!
+
+<h1> Bus Mods list: </h1>
+  <a href="https://www.thedevmods.ga/2020/12/solaris-urbino12-3portas.html">Solaris Urbino 12 (Phase 2)</a><br>
+  
+  
+<h1> Map Mods list: </h1>
+  <a href="https://www.thedevmods.ga/2020/12/mapabns-2fase.html">BNS Map v0.10 (Phase 2)</a><br>
+
+
+
+
+
+
+
+
+<p><br><br><br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
