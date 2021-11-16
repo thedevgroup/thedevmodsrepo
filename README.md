@@ -9,7 +9,7 @@ Se o seu mapa, ou ônibus está aqui neste acervo, e você não quer, abra um pe
 Para um pedido ser atendido com sucesso, você deve estar atento a umas exigências:<br>
 <ol><li>Você deve ser o dono do mod, ou ter a autorização do dono<br></li>
 <li>O mod deve ser grátis<br></li>
-<dd>2.1-Para mods pagos é necessário enviar o arquivo comprimido e travado com senha para nosso e-mail thedevmods@thedevgroup.ga com o título: "Mod Pago (nome do mod)<br></dd>
+<dd>2.1-Para mods pagos é necessário enviar o arquivo comprimido e travado com senha para nosso e-mail mailto:thedevmods@thedevgroup.ga com o título: "Mod Pago (nome do mod)<br></dd>
 <li>Deve ser um mod de Proton Bus<br></li></ol>
 Tendo estas exigências sido atendidas, iremos verificar se o mod funciona, para assim podermos adicionar no repositório!
 
@@ -43,7 +43,7 @@ If your map or bus is here in this collection, and you don't want it, open a req
 For an order to be successfully fulfilled, you must be aware of some requirements:<br>
 <ol><li>You must be the owner of the mod, or have the owner's authorization<br></li>
 <li>The mod must be free<br></li>
-<dd>2.1-For paid mods it is necessary to send the compressed, password-locked file to our e-mail thedevmods@thedevgroup.ga with the title: "Paid Mod (mod name)<br></dd>
+<dd>2.1-For paid mods it is necessary to send the compressed, password-locked file to our e-mail mailto:thedevmods@thedevgroup.ga with the title: "Paid Mod (mod name)<br></dd>
 <li>Must be a Proton Bus mod<br></li></ol>
 Once these requirements are met, we will check if the mod works, so we can add it to the repository!
 
