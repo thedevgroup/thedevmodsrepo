@@ -18,7 +18,7 @@ Tendo estas exigências sido atendidas, iremos verificar se o mod funciona, para
   
   
 <h1> Lista de mods de mapa: </h1>
-  <a href="https://www.thedevmods.ga/2020/12/mapabns-2fase.html">Mapa BNS v0.10 (Fase 2)</a><br>
+  <a href="https://repo.thedevmods.ga/static/map/MapaBNS/">Mapa BNS v0.10 (Fase 2)</a><br>
 
 
 
